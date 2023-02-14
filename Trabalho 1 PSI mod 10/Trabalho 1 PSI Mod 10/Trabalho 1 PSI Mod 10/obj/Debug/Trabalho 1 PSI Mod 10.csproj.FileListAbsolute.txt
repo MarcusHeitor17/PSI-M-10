@@ -1,0 +1,8 @@
+C:\Users\heito\OneDrive\Área de Trabalho\C#\Trabalho 1 PSI mod 10\Trabalho 1 PSI Mod 10\Trabalho 1 PSI Mod 10\obj\Debug\Trabalho 1 PSI Mod 10.csproj.AssemblyReference.cache
+C:\Users\heito\OneDrive\Área de Trabalho\C#\Trabalho 1 PSI mod 10\Trabalho 1 PSI Mod 10\Trabalho 1 PSI Mod 10\obj\Debug\Trabalho 1 PSI Mod 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\heito\OneDrive\Área de Trabalho\C#\Trabalho 1 PSI mod 10\Trabalho 1 PSI Mod 10\Trabalho 1 PSI Mod 10\obj\Debug\Trabalho 1 PSI Mod 10.csproj.CoreCompileInputs.cache
+C:\Users\heito\OneDrive\Área de Trabalho\C#\Trabalho 1 PSI mod 10\Trabalho 1 PSI Mod 10\Trabalho 1 PSI Mod 10\bin\Debug\Trabalho 1 PSI Mod 10.exe.config
+C:\Users\heito\OneDrive\Área de Trabalho\C#\Trabalho 1 PSI mod 10\Trabalho 1 PSI Mod 10\Trabalho 1 PSI Mod 10\bin\Debug\Trabalho 1 PSI Mod 10.exe
+C:\Users\heito\OneDrive\Área de Trabalho\C#\Trabalho 1 PSI mod 10\Trabalho 1 PSI Mod 10\Trabalho 1 PSI Mod 10\bin\Debug\Trabalho 1 PSI Mod 10.pdb
+C:\Users\heito\OneDrive\Área de Trabalho\C#\Trabalho 1 PSI mod 10\Trabalho 1 PSI Mod 10\Trabalho 1 PSI Mod 10\obj\Debug\Trabalho 1 PSI Mod 10.exe
+C:\Users\heito\OneDrive\Área de Trabalho\C#\Trabalho 1 PSI mod 10\Trabalho 1 PSI Mod 10\Trabalho 1 PSI Mod 10\obj\Debug\Trabalho 1 PSI Mod 10.pdb
